@@ -10,7 +10,7 @@ The Campus Lost & Found Portal is designed to digitize the traditional lost and 
 - View item details
 - Manage user sessions securely
 
-###Technologies Used
+# Technologies Used
 
 ### Frontend
 - HTML
